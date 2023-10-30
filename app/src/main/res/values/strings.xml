@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Mustafa Harman</string>
+    <string name="title">Android Developer</string>
+    <string name="phone">05441231212</string>
+    <string name="social">\@AndroidDev</string>
+    <string name="mail">jen.doe@gmail.com</string>
+</resources>
